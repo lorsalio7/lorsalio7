@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/lorsalio7/lorsalio7/header-banner.png)
+[![](https://raw.githubusercontent.com/lorsalio7/lorsalio7/header-banner.png)]
 
 <!--
 **lorsalio7/lorsalio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
