@@ -4,7 +4,7 @@
 Я профессиональный верстальщик сайтов
 
 ## Технологии:
-![HTML](https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/html-ic.jpg "HTML")![CSS](https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/css-ic.jpg "HTML")
+![HTML](https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/html-ic.jpg "HTML")![CSS](https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/css-ic.jpg "CSS")
 <!--
 **lorsalio7/lorsalio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
