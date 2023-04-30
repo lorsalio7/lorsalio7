@@ -1,5 +1,9 @@
 ![Header](https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/header-banner.png)
 
+# Привет! Меня зовут Сергей :slightly_smiling_face:
+Я профессиональный верстальщик сайтов
+
+## Технологии:
 <!--
 **lorsalio7/lorsalio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
