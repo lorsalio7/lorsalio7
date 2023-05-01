@@ -7,6 +7,8 @@
 ![HTML](https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/html-ic.jpg "HTML")  ![CSS](https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/css-ic.jpg "CSS")  ![JS](https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/js-ic.jpg "JS")  ![SVG](https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/svg-ic.jpg "SVG")  ![PUG](https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/pug-ic.jpg "PUG")  ![SASS](https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/sass-ic.jpg "SASS")  ![STYLELINT](https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/stylelint-ic.jpg "STYLELINT")
 
 ## Контакты:
+
+<a href="mailto:erega74@gmail.com" target="_blank" title="Написать электронное письмо"><img src="https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/email-ic.png"></a>  <a href="https://t.me/sezak74" target="_blank" title="Я в Телеграм"><img src="https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/telegram-ic.png"></a>
 <!--
 **lorsalio7/lorsalio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
