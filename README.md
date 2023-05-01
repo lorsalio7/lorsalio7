@@ -8,7 +8,7 @@
 
 ## Контакты:
 
-<a href="mailto:erega74@gmail.com" target="_blank" title="Написать электронное письмо"><img src="https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/email-ic.png"></a>      <a href="https://t.me/sezak74" target="_blank" title="Я в Телеграм"><img src="https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/telegram-ic.png"></a>      <a href="https://vk.com/id614911269" target="_blank" title="Я в ВК"><img src="https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/vk-ic.png"></a>      <a href="https://www.linkedin.com/in/sezak/" target="_blank" title="Я в LinkedIn"><img src="https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/linkedin-ic.png"></a>
+<a href="mailto:erega74@gmail.com" target="_blank" title="Написать электронное письмо"><img src="https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/email-ic.png"></a> &nbsp; <a href="https://t.me/sezak74" target="_blank" title="Я в Телеграм"><img src="https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/telegram-ic.png"></a> &nbsp; <a href="https://vk.com/id614911269" target="_blank" title="Я в ВК"><img src="https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/vk-ic.png"></a> &nbsp; <a href="https://www.linkedin.com/in/sezak/" target="_blank" title="Я в LinkedIn"><img src="https://raw.githubusercontent.com/lorsalio7/lorsalio7/master/linkedin-ic.png"></a>
 <!--
 **lorsalio7/lorsalio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
